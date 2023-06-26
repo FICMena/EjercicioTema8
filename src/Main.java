@@ -11,7 +11,7 @@ public class Main {
     }
 
 
-    class Persona {
+    static class Persona {
 
         private int edad;
         private  String nombre;
